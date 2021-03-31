@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520454336609",
+    "firebase_url": "https://speproject-84122-default-rtdb.firebaseio.com",
+    "project_id": "speproject-84122",
+    "storage_bucket": "speproject-84122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520454336609:android:fcfa4213b118b54cb1fa20",
+        "android_client_info": {
+          "package_name": "com.example.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520454336609-v4d84q8bl8r699rldhfu08n1hnghdkcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk7JOc0uHXQBns8fCigYHrE6nKAQlgDUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520454336609-v4d84q8bl8r699rldhfu08n1hnghdkcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
